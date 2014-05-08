@@ -1,2 +1,3 @@
 <h2> Pierwsze kroki ze Scratch-em </h2>
-<ol> Ściągnij <body style="font-color:red" juh </ol>
+<ol> 
+<li> Ściągnij <h1 style="background-color: blue;"> oprogamowanie Scratch-a.</h1> 
