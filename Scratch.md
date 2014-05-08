@@ -3,7 +3,7 @@
 <ol> 
 <li> Ściągnij <b><a href="http://www.scratch.mit.edu/scratch_1.4/"> oprogamowanie Scratch-a. </b> (Za darmo!) </li>
 <li> Zainstaluj i uruchom program Scratch-a na swoim komputerze. </li>
-<li> Aby wykonać swój pierwszy projekt, przejdź wszystkie kroki z <b><a href="http://www.info.scratch.mit.edu/sites/infoscratch.media.mit.edu/files/file/GS_14_po.pdf/">podręcznika Pierwsze Kroki.</b> </li>
+<li> Aby wykonać swój pierwszy projekt, przejdź wszystkie kroki z podręcznika <b><a href="http://www.info.scratch.mit.edu/sites/infoscratch.media.mit.edu/files/file/GS_14_po.pdf/">Pierwsze Kroki.</b> </li>
 <li> Utwórz <b><a href=www.scratch.mit.edu/signup>konto </b> na stronie sieciowej.</li>
 <li> Podziel się swoim projektem na stronie sieciowej Scratch-a. </li>
 <li> Zaloguj się na stronę sieciową Scratch-a i sprawdź swój projekt! </li>
