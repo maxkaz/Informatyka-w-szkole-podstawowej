@@ -1,5 +1,5 @@
 <h5 align="justify"> <b> Pivot Stickfigure Animator </b> to prosty program, w którym można tworzyć animacje z "patyczkowych ludzików" w 2D. W założeniu autora one również miały być proste, lecz używając spreparowanych figur można stworzyć coś bardziej skomplikowanego. Figury te można tworzyć samemu, a także znaleźć w internecie. Program umożliwia również dodawanie tła, edytowanie kolorów jak i dobrą zabawę.</h5>
-<h2> Przykładowy film wykonany za pomocą programu. <b><a href="https://www.youtube.com/watch?v=TTPjNExluCM"> FILM </b> </h2>
+<h4> Przykładowy <b><a href="https://www.youtube.com/watch?v=TTPjNExluCM"> film </b> film wykonany za pomocą programu.</h4>
 <ol> 
 <li> Ściągnij  (Za darmo!) </li>
 <li> Zainstaluj i uruchom program Scratch-a na swoim komputerze. </li>
