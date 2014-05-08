@@ -4,7 +4,7 @@ Informatyka w szkole podstawowej
 <h6> Podręcznik do informatyki Lubię to! To sposób na nauczanie zajęć komputerowych na miarę XXI wieku. Pakiet składa się z podręcznika interaktywnego na pendrivie, wzbogaconego o liczne zasoby multimedialne ułatwiającego zrozumienie treści oraz zbioru zadań, który jest skarbnicą dodatkowych ćwiczeń, umożliwiających praktyczne przećwiczenie poznawanych aplikacji.</h6>
 <ul>
 <li> <b> Lepsze zrozumienie zagadnień informatycznych </b>
-Podręcznik multimedialny bogaty w zasoby multimedialne (m.in. filmy instruktażowe, prezentacje, ćwiczenia interaktywne), które ułatwią uczniom poznanie możliwości poszczególnych aplikacji oraz ich narzędzi. </li>
+<br/>Podręcznik multimedialny bogaty w zasoby multimedialne (m.in. filmy instruktażowe, prezentacje, ćwiczenia interaktywne), które ułatwią uczniom poznanie możliwości poszczególnych aplikacji oraz ich narzędzi. </li>
 <li> <b> Kształcenie praktycznych umiejętności </b>
 <br/>Uczeń ma do dyspozycji wiele ćwiczeń (zarówno w podręczniku, jak i w zbiorze zadań), skorelowanych z treściami innych przedmiotów i niejednokrotnie nawiązującymi do życia codziennego. Dzięki temu uczeń jest w stanie odpowiednio wyćwiczyć dane zagadnienie, a także widzi praktyczne zastosowanie informatyki, w różnych dziedzinach swojego życia. </li>
 <li> <b> Łatwiejsza praca z uczniami o różnych możliwościach </b>
