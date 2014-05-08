@@ -8,4 +8,4 @@
 <li> Podziel się swoim projektem na stronie sieciowej Scratch-a. </li>
 <li> Zaloguj się na stronę sieciową Scratch-a i sprawdź swój projekt! </li>
 <li> Ściągaj projekty innych i oglądaj ich kod. </li> </ol>
-
+<h2> Chcesz więcej informacji na temat oprogramowania Scratch-a? Przeczytaj <b><a href=http://info.scratch.mit.edu/sites/infoscratch.media.mit.edu/files/file/RG14_po.pdf>  Podręcznik referencyjny</b> Scratch-a.
