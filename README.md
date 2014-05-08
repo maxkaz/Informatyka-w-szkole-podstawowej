@@ -1,6 +1,6 @@
 <h2> Informatyka w szkole podstawowej - Lubię to! </h2>
 ================================
-
+    <img src="http://farm4.staticflickr.com/3775/12059206813_e37135c9cf_z.jpg" width="230" height="180"/>
 <h5 align="justyfy"> Podręcznik do informatyki Lubię to! To sposób na nauczanie zajęć komputerowych na miarę XXI wieku. Pakiet składa się z podręcznika interaktywnego na pendrivie, wzbogaconego o liczne zasoby multimedialne ułatwiającego zrozumienie treści oraz zbioru zadań, który jest skarbnicą dodatkowych ćwiczeń, umożliwiających praktyczne przećwiczenie poznawanych aplikacji.</h5>
 <ul >
 <li> <b> Lepsze zrozumienie zagadnień informatycznych </b>
