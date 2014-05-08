@@ -2,13 +2,6 @@
 <hr/>
 Główną wadą Windows Movie Maker jest brak możliwości nagrywania materiału na płytę DVD z poziomu samego programu. </h5>
 <hr/>
-	<table>
-	  <tr>
-		<td>Komórka 1</td>
-		<td>Komórka 2</td>
-	  </tr>
-	  <tr>
-		<td>Komórka 3</td>
-		<td>Komórka 4</td>
-	  </tr>
-	</table>
+<ul>
+<li> Wersja 2.6 przeznaczona jest dla systemów Windows Vista/7 </li>
+</ul>
